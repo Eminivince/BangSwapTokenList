@@ -1,0 +1,135 @@
+{
+  "name": "Roll Social Money",
+  "timestamp": "2023-08-13T16:12:01.730994194Z",
+  "version": {
+    "major": 5,
+    "minor": 3,
+    "patch": 7
+  },
+  "tags": {
+    "bases": {
+      "name": "Common Bases",
+      "description": "Commonly used trading bases"
+    },
+    "nft": {
+      "name": "NFT Tokens",
+      "description": "Tokens related to nft games platforms and projects"
+    },
+    "other": {
+      "name": "Zeda",
+      "description": "Zeda listed token"
+    },
+    "roll": {
+      "name": "Shibal",
+      "description": "shibal Whitelisted"
+    }
+  },
+  "logoURI": "https://eminivince.github.io/zedalogo/WhatsApp_Image_2024-01-05_at_6.38.38_PM-removebg-preview.png",
+  "keywords": [
+    "shibal",
+    "default",
+    "Zeda",
+    "personal tokens"
+  ],
+  "tokens": [
+    {
+      "name": "Gunther",
+      "address": "0xfCE080Ad2F7A8556A8dA520d9076199B7394E813",
+      "symbol": "Gunther",
+      "tags": [
+        "gunther"
+      ],
+      "decimals": 18,
+      "chainId": 7000,
+      "logoURI": "https://eminivince.github.io/guntherlogo/nbg-gunther.png"
+    },
+    {
+      "name": "Shibal",
+      "address": "0x6b80ddc6bc5ad33aed69843b07a3a8a6e8cf3fa3",
+      "symbol": "Shibal",
+      "tags": [
+        "shibal"
+      ],
+      "decimals": 18,
+      "chainId": 7000,
+      "logoURI": "https://eminivince.github.io/shibal/shibal.jpeg"
+    },
+    {
+      "name": "ZetaCat",
+      "address": "0xc51e043B110672729d27332e1C145011065559b1",
+      "symbol": "ZCat",
+      "tags": [
+        "ZetaCat"
+      ],
+      "decimals": 18,
+      "chainId": 7000,
+      "logoURI": "https://eminivince.github.io/zcat/WhatsApp_Image_2024-02-01_at_7.16.37_AM-removebg-preview.png"
+    },
+    {
+      "name": "ZetaPepe",
+      "address": "0x1D78E1a7f844Dc9B5c6705bf3f2484BB1459da2C",
+      "symbol": "ZetaPepe",
+      "tags": [
+        "ZetaPepe"
+      ],
+      "decimals": 9,
+      "chainId": 7000,
+      "logoURI": "https://eminivince.github.io/zetapepe/zetapepe.jpeg"
+    },
+    {
+      "name": "Zeta Doge",
+      "address": "0x22EeF83d2C60e3cFD5b0B709bfe2ADe0cDf15c55",
+      "symbol": "ZDOGE",
+      "tags": [
+        "zdoge"
+      ],
+      "decimals": 9,
+      "chainId": 7000,
+      "logoURI": "https://imgur.com/a/jI47zUO"
+    },
+    {
+      "name": "ZetaInu",
+      "address": "0x0b301dB262D19699ECbCA3ee0Bb3525B2d0Ef4DA",
+      "symbol": "ZINU",
+      "tags": [
+        "zinu"
+      ],
+      "decimals": 18,
+      "chainId": 7000,
+      "logoURI": "https://eminivince.github.io/zinuart/zinu.png"
+    },
+    {
+      "name": "ZetaShib",
+      "address": "0x85F893cD67044Dd30a8A3341f8BAc70f8D801B92",
+      "symbol": "ZetaShib",
+      "tags": [
+        "ZetaShib"
+      ],
+      "decimals": 18,
+      "chainId": 7000,
+      "logoURI": "https://photos.pinksale.finance/file/pinksale-logo-upload/1706784404412-9594c241bb53767b2346bd19c0096332.jpg"
+    },
+    {
+      "name": "MUPPETZ",
+      "address": "0x38cdb9314f1F300e2C8d410A8c447572b668A7d9",
+      "symbol": "MUPPETZ",
+      "tags": [
+        "muppetz"
+      ],
+      "decimals": 18,
+      "chainId": 7000,
+      "logoURI": "https://eminivince.github.io/mupeetz/muppets.jpeg"
+    },
+    {
+      "name": "ZEDA",
+      "address": "0xF97956624654B7436B1B2d5993C46B84dECCacef",
+      "symbol": "zeda",
+      "tags": [
+        "zeda"
+      ],
+      "decimals": 18,
+      "chainId": 7000,
+      "logoURI": "https://eminivince.github.io/Zedalogoo/zeta.jpg"
+    }
+  ]
+}
